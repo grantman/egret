@@ -1,0 +1,10 @@
+{
+  "global": {
+    "globalAutoLayerMarkEnable": false,
+    "globalBindingDataTestObj": [],
+    "globalAdsorbEnable": false
+  },
+  "15cc319b605": {
+    "bindingDataTestObj": []
+  }
+}

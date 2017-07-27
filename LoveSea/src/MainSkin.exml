@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="15cc319b605"/>
+	<e:Label id="lbusername" text="用户名" y="44" x="25"/>
+	<e:Label id="lbpassword" text="密   码" y="112" x="25"/>
+	<e:TextInput id="txtusername" width="250" height="46" y="36" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="21"/>
+	<e:TextInput id="txtpassword" width="250" height="46" y="104" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="21"/>
+	<e:Button id="btnlogin" label="登录" y="203" horizontalCenter="-54"/>
+	<e:Button id="btnreg" label="注册" y="203" horizontalCenter="71"/>
+</e:Skin>
